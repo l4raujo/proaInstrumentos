@@ -1,0 +1,23 @@
+.container{
+    width: 500px;
+    height: 320px;
+    background-color: lightcoral;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    padding: 0px 20px;
+    gap: 50px;
+}
+
+.bgVioloes{
+    background-image: url(../images/bgViolao.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bgMaps{
+    background-image: url(../images/maps.png);
+    background-position: center;
+    background-size: cover;
+}

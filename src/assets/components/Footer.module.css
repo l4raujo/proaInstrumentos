@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.fundo{
+    width: 80%;
+    background-color: black;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    line-height: 24px;
+    color: #fff;
+}
+
+.span{
+    font-weight: bold;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.icons{
+    width: 50px;
+    height: 50px;
+}
